@@ -1,5 +1,3 @@
-About
+Batch-68
 This is the 68th Batch of Data Science
-
-Topics
-visualisations dataanalytics datascience-machinelearning
+Data Science and Analytics
